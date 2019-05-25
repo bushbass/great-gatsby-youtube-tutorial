@@ -5,5 +5,9 @@
  */
 
 module.exports = {
+  siteMetadata: {
+    title: "Alex's Gatsby Bootcamp Site!",
+    author: "Alex Nielsen",
+  },
   plugins: [`gatsby-plugin-sass`],
 }

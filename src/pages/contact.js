@@ -7,9 +7,7 @@ function Contact() {
       <h1>Contact Me</h1>
       <ul>
         <li>
-          <a href="https://www.twitter.com/BigAlsHouse" target="_blank">
-            Twitter @BigAlsHouse
-          </a>
+          <a href="https://www.twitter.com/BigAlsHouse">Twitter @BigAlsHouse</a>
         </li>
         <li>github</li>
         <li>linkedin</li>
